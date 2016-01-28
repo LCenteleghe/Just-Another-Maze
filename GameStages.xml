@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameStagesPack>
+   <StagesList>
+      <StageCS>
+         <id>1</id>
+         <gameDuration>60</gameDuration>
+         <landscapeBg>
+            <imagePath>clouds.ptm</imagePath>
+            <x>0.0</x>
+            <y>370.0</y>
+         </landscapeBg>
+         <landscapeFg>
+            <imagePath>landscape.ptm</imagePath>
+            <x>0.0</x>
+            <y>0.0</y>
+         </landscapeFg>
+         <targetDropper>
+            <x>724.0</x>
+            <y>800.0</y>
+            <dropperWidth>200.0</dropperWidth>
+            <maxHeight>800.0</maxHeight>
+            <dropRateInSeconds>3</dropRateInSeconds>
+            <fallSpeedInMilliseconds>50</fallSpeedInMilliseconds>
+            <diferentSpeedPerTarget>true</diferentSpeedPerTarget>
+         </targetDropper>
+         <walls>
+            <WallCS>
+               <x>620.0</x>
+               <y>50.0</y>
+            </WallCS>
+            <WallCS>
+               <x>480.0</x>
+               <y>400.0</y>
+            </WallCS>
+         </walls>
+         <cannon>
+            <x>10.0</x>
+            <y>0.0</y>
+         </cannon>
+      </StageCS>
+   </StagesList>
+</GameStagesPack>
