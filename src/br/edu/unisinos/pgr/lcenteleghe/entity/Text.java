@@ -71,15 +71,6 @@ public class Text extends Entity {
 		case 'x':	return 23;
 		case 'y':	return 24;
 		case 'z':	return 25;
-		case 'á':	return 26;
-		case 'à':	return 27;
-		case 'â':	return 28;
-		case 'é':	return 29;
-		case 'ê':	return 30;
-		case 'í':	return 31;
-		case 'ó':	return 32;
-		case 'ô':	return 33;
-		case 'ú':	return 34;
 		case '<':	return 35;
 		case '>':	return 36;
 		case '.':	return 37;
@@ -95,10 +86,6 @@ public class Text extends Entity {
 		case '#':	return 47;
 		case '(':	return 48;
 		case ')':	return 49;
-		case '§':	return 50;
-		case '¹':	return 51;
-		case '²':	return 52;
-		case '³':	return 53;
 		case '/':	return 54;
 		case '\\':	return 55;
 		case '"':	return 56;
